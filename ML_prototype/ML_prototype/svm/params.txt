@@ -1,0 +1,1 @@
+the best params C=10, gamma = 0.01 and the score =0.57

@@ -1,0 +1,1 @@
+This folder contains the q value from tabular Q learning. The implementation of q learnign in mlr/teaching/17-Practical/qlearning. Since q learning is not used in final project, we did not write a detail comment in that code. 

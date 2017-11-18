@@ -1,0 +1,30 @@
+0.6x0.6
+.5,.2,1.4
+200epi
+alpha .3
+gamma 1
+accuracy 0
+-----------
+10succive average 21.7
+10succive average 21
+10succive average 16.5
+10succive average 19.2
+10succive average 23.9
+10succive average 2093
+10succive average 600.2
+10succive average 642.9
+10succive average 628.8
+10succive average 657.6
+10succive average 234.7
+10succive average 100.6
+10succive average 208.4
+10succive average 289.8
+10succive average 247.7
+10succive average 505.1
+10succive average 241.1
+10succive average 190.9
+10succive average 149
+10succive average 359.1
+10succive average 304.9
+10succive average 74.9
+
