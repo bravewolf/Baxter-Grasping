@@ -1,11 +1,16 @@
 # Baxter-Grasping
 This is code for Practical Robotics course hold by Uni Stuttgart
+
 Solve robotic grasping of single object in 2D plane
+
 Apply reinforcement learning, supervised learning, computer vision
 
 Use SVN to learn the grasping point by shape-context feature, standford grasping data
+
 Tabular Q learning, LSPI to update the policy
+
 Camera calibration, ARUCO marker, SIFT
+
 
 
 Compilation:
